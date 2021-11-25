@@ -6,7 +6,7 @@ class TestEsPrimo {
 
     @Test
     fun esPrimoConPrimo7(){
-        assertTrue(JUnitTest.esPrimo(7))
+        assertTrue(JUnitTest.esPrimo(10))
     }
 
     @Test
